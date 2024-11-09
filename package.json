@@ -1,0 +1,14 @@
+{
+  "name": "com.nix.package",
+  "version": "1.0.0",
+  "displayName": "NIX Package",
+  "description": "NIX Package",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {},
+  "keywords": [],
+  "author": {
+    "name": "NIX",
+    "email": "tientv.0702@gmail.com"
+  }
+}
