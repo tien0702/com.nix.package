@@ -28,4 +28,3 @@ jobs:
             @semantic-release/git
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
-        run: npx semantic-release
