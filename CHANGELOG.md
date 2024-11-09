@@ -1,0 +1,9 @@
+# 1.0.0 (2024-11-09)
+
+
+### Bug Fixes
+
+* fix ([a6ca28d](https://github.com/tien0702/com.nix.package/commit/a6ca28d1b3eec2e887a8b5f28406faa7175ab737))
+* fix release ([17fb695](https://github.com/tien0702/com.nix.package/commit/17fb6955fea060d5e5166a35041de32a8cd1ba44))
+* pat 2 ([c76d7ba](https://github.com/tien0702/com.nix.package/commit/c76d7baa35372effcc1216cc65ce452ec6abb31d))
+* pat token ([55c079f](https://github.com/tien0702/com.nix.package/commit/55c079f2833ccf1cbd7413d534994c28cfd357ae))
