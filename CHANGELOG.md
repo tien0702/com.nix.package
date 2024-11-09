@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/tien0702/com.nix.package/compare/v1.0.0...v1.0.1) (2024-11-09)
+
+
+### Bug Fixes
+
+* 1 ([787eb23](https://github.com/tien0702/com.nix.package/commit/787eb233548ec19de7735fe446812500daf30989))
+
 # 1.0.0 (2024-11-09)
 
 
