@@ -1,9 +1,9 @@
 {
   "name": "com.nix.package",
   "version": "1.0.3",
-  "displayName": "NIX Package",
-  "description": "NIX Package",
-  "unity": "2019.1",
+  "displayName": "NIX",
+  "description": "NIX",
+  "unity": "2021.3",
   "unityRelease": "0b5",
   "dependencies": {},
   "keywords": [],
