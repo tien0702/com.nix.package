@@ -1,6 +1,6 @@
 {
   "name": "com.nix.package",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "NIX Package",
   "description": "NIX Package",
   "unity": "2019.1",
