@@ -2,7 +2,9 @@
     "name": "Nix.Core.Editor",
     "rootNamespace": "Nix.Core.Editor",
     "references": [],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
